@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kewin Tao Anh</h1>
 <h3 align="center">💻 Software Engineer at Kainos</h3>
 
-- 🎓 I’m currently studying IT at the WSB in Gdańsk
+- 🎓 I’m currently studying Computer Science at the WSB in Gdańsk
 
 - ☕ I’m looking to collaborate on fullstack applications
 
